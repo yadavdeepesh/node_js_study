@@ -1,0 +1,8 @@
+core module in node js
+
+what is core modules ?
+what are global modules ?
+global model example 
+Non-Global module with example 
+interview question ..
+
