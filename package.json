@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "for study",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.4.1",
     "colors": "^1.4.0",
     "simple-node-logger": "^21.8.12"
   }
