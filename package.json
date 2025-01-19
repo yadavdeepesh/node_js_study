@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "for study",
   "main": "index.js",
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +11,7 @@
   "dependencies": {
     "chalk": "^5.4.1",
     "colors": "^1.4.0",
+    "express": "^4.21.2",
     "simple-node-logger": "^21.8.12"
   }
 }
